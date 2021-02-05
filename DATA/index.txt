@@ -1,0 +1,7 @@
+En la carpeta DATA guardamos los ficheros que contienen la informacion relevante que se
+debe almacenar en la capa de Persistencia. En nuestro caso dicha informacion se 
+encuentra dividida en 4 ficheros: stats, kakuros, games y profiles.
+En la carpeta media hemos guardado algunas imagines que se usan en la aplicacion, en la 
+carpeta boards guardamos algunos tableros de kakuro, y en defaultData se encuentra una
+copia de los ficheros de la capa de Persistencia, para tener una copia de seguridad de 
+lo que seria el estado por defecto del programa en la ultima entrega. 

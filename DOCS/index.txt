@@ -1,0 +1,6 @@
+En la carpeta DOCS nos encontramos con un directorio llamado JAVADOC, el cual contiene
+la documentacion del codigo generada a partir de javaDoc. Dentro de esta carpeta, tendremos
+acceso a la documentacion independiente de cada clase o directamente podemos abrir el
+fichero index, el cual agrupa todas las clases.
+Ademas tenemos un PDF mostrando el reparto de la implementacion, el manual de usuario y
+la justificacion de los juegos de prueba que se encuentran dentro de la carpeta EXE.

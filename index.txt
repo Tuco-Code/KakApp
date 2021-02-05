@@ -1,0 +1,7 @@
+DATA contiene los ficheros de persistencia y otros ficheros audiovisuales utilizados en nuestro programa
+
+DOCS contiene los ficheros de documentacion como el manual de usuario, el reparto de trabajo, el JAVADOC y la explicación de los juegos de prueba
+
+EXE contiene los ejecutables del programa y juegos de prueba
+
+FONTS contiene los ficheros fuente del programa y los scripts para recompilar el código
