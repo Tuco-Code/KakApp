@@ -11,3 +11,5 @@ Credits to all the members of the team:
 + Ivan Lopez Rodriguez
 + Daniel Santiago Corona
 + Albert Vilardell Barnosell
+
+>Developed in the context of the Programming Project course of FIB [UPC] during the fall quarter of 2020.
