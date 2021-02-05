@@ -3,7 +3,7 @@ A Java application capable of reading, generating and solving Kakuro boards.
 
 It also allows a set of users to manually solve Kakuro boards in an arcade fashion.
 
-The following program's compilation instructions and usage were originally designed for a UNIX system.
+The following program's compilation instructions and usage were originally designed for a UNIX system and they can be found in the *User's Manual*.
 
 Credits to all the members of the team:
 
