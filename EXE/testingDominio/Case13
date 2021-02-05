@@ -1,0 +1,12 @@
+Caso isCorrect de un Kakuro:
+
+Introduzca la String del Kakuro:
+
+Kakuro recibido:
+2,2
+*,C11
+aa
+
+Vamos a comprobar si el kakuro introducido esta correctamente formateado
+
+Incorrect!

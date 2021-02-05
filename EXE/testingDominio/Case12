@@ -1,0 +1,15 @@
+Caso Eliminar Perfil:
+Current profiles before deleting:
+test
+Patata
+prueba
+prop
+
+
+We login with our profile: prop
+
+After deleting our profile:
+
+test
+Patata
+prueba

@@ -1,0 +1,13 @@
+Caso Cambio de password:
+
+Creamos un perfil con nombre kakuro y contrasena prop9.3
+
+Tratamos de cambiar la contrasena a kak
+Password changed to kak!
+
+Vamos a intentar cambiar la contrasena poniendo la contrasena actual de forma erronea, asi que deberia saltar un error
+Well done!
+
+Vamos a intentar cambiar la contrasena poniendo la misma, deberia saltar un error
+Well done!
+

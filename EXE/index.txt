@@ -1,0 +1,17 @@
+TO EXECUTE THE KakApp PROGRAM USE THE FOLLOWING COMMAND IN THIS DIRECTORY:
+
+	'bash KakApp.sh'
+	
+TO EXECUTE THE DOMAIN TESTING USE THE FOLLOWING COMMAND IN THIS DIRECTORY:
+
+	'bash testingDominio.sh'
+	
+TO EXECUTE THE GENERATOR TESTING USE THE FOLLOWING COMMAND IN THIS DIRECTORY:
+
+	'bash testingGenerador.sh'
+	
+
+
+---->	FOR FURTHER INSTRUCTIONS, PLEASE REFER TO OUR USER MANUAL
+
+Dentro de programData, testingDominio y testingGenerador se encuentran lso ficheros compilados necesarios para las ejecuciones del programa y testings mencionados con los scripts mencionados arriba.

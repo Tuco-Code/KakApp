@@ -1,0 +1,111 @@
+Formato de impresion de kakuros: 
+ B = casilla negra, CX/FX/CXFX = casilla de restriccion donde X es la suma,  0 = casilla blanca sin numero, numero 1-9 = casilla blanca con dicho numero
+Formato de Inserción de kakuros: 
+ Mismo formato al del enunciado,pero se puede introducir un numero en vez de un ? para especificar que la casilla blanca tiene un numero del 1-9.
+Introduzca el numero de la función a evaluar:
+ 0: Generador 
+ 1: more_zeros 
+ 2: omplir 
+ 3: calc_sum_uniq 
+ 4: computa_suma 
+ 5: boardToCode 
+ 6: Generarboard 
+ 7: check_zeros 
+ 8: omplir_smart2 
+ 9: omplir_smart 
+ 10: sumes_paraleles 
+
+Caso 3: calc_sum_uniq
+Introduce el número de casillas:
+Introduce el vector de presencia. EJ: true true true false false false false false false. Siempre debe tener 9 elementos.
+Vector resultante:
+false false false false false false false false false 
+En caso de detener la ejecución introduce -1
+Caso 3: calc_sum_uniq
+Introduce el número de casillas:
+Introduce el vector de presencia. EJ: true true true false false false false false false. Siempre debe tener 9 elementos.
+Vector resultante:
+true true true true false false false false false 
+En caso de detener la ejecución introduce -1
+Caso 10: sumes_paraleles
+Introduce la String del kakuro a evaluar, sin restricciones,solo casillas negras y blancas:
+Tablero del kakuro con la String introducida por el usuario:
+
+B      B      B      B      C5     C7     B      B      
+B      B      C10    C5F3   0      0      C6     B      
+B      C6F15  0      0      0      0      0      B      
+F6     0      0      0      F3     0      0      B      
+F6     0      0      C16    C23    B      B      B      
+F20    0      0      0      0      C10    C13    C15    
+B      B      F34    0      0      0      0      0      
+B      B      B      F30    0      0      0      0      
+Codigo de error:false
+Sumes paralelas NO ha detectado ninguna suma paralela
+En caso de detener la ejecución introduce -1
+Caso 10: sumes_paraleles
+Introduce la String del kakuro a evaluar, sin restricciones,solo casillas negras y blancas:
+Tablero del kakuro con la String introducida por el usuario:
+
+B      B      B      B      C5     C7     B      B      
+B      B      C10    C5F3   0      0      C6     B      
+B      C6F15  0      0      0      0      0      B      
+F6     0      0      0      F3     0      0      B      
+F5     0      0      C16    C23    B      B      B      
+F20    0      0      0      0      C10    C13    C15    
+B      B      F34    0      0      0      0      0      
+B      B      F30    0      0      0      0      0      
+Codigo de error:false
+Sumes paralelas NO ha detectado ninguna suma paralela
+En caso de detener la ejecución introduce -1
+Caso 10: sumes_paraleles
+Introduce la String del kakuro a evaluar, sin restricciones,solo casillas negras y blancas:
+Tablero del kakuro con la String introducida por el usuario:
+
+B      B      B      B      C5     C7     B      B      
+B      B      C10    C5F3   0      0      C6     B      
+B      C6F15  0      0      0      0      0      B      
+F6     0      0      0      F3     0      0      B      
+F5     0      0      C16    C23    B      B      B      
+F20    0      0      0      0      C10    C13    C15    
+B      B      F34    0      0      0      0      0      
+B      B      F34    0      0      0      0      0      
+Codigo de error:true
+Sumes paralelas ha detectado alguna suma paralela
+En caso de detener la ejecución introduce -1
+Caso 10: sumes_paraleles
+Introduce la String del kakuro a evaluar, sin restricciones,solo casillas negras y blancas:
+Tablero del kakuro con la String introducida por el usuario:
+
+B      B      B      B      C5     C7     B      B      
+B      B      C10    C5F3   0      0      C6     B      
+B      C6F15  0      0      0      0      0      B      
+F6     0      0      0      F3     0      0      B      
+F5     0      0      C16    C23    B      B      B      
+F20    0      0      0      0      C10    C13    C15    
+B      B      F34    0      0      2      0      0      
+B      B      F34    0      0      5      0      0      
+Codigo de error:true
+Sumes paralelas ha detectado alguna suma paralela
+En caso de detener la ejecución introduce -1
+Caso 10: sumes_paraleles
+Introduce la String del kakuro a evaluar, sin restricciones,solo casillas negras y blancas:
+Tablero del kakuro con la String introducida por el usuario:
+
+B      B      B      B      C14    C16    B      B      B      B      
+B      B      B      F13    0      0      B      B      B      B      
+B      C21    C32    F17    0      0      C16    C33    B      B      
+F13    0      0      B      B      F13    0      0      B      B      
+F10    0      0      C15    B      F10    0      0      C27    B      
+F16    0      0      0      B      B      F11    0      0      B      
+B      C20F15 0      0      B      C17    C18F12 0      0      C15    
+F7     0      0      B      C16F34 0      0      0      0      0      
+F17    0      0      F38    0      0      0      0      0      0      
+F7     0      0      F24    0      0      0      B      B      B      
+Codigo de error:true
+Sumes paralelas ha detectado alguna suma paralela
+En caso de detener la ejecución introduce -1
+Caso 11: código error omplir_smart
+Introduce la String del kakuro a evaluar, sin restricciones,solo casillas negras y blancas:
+Codigo de error:-1
+Error -1
+En caso de detener la ejecución introduce -1
