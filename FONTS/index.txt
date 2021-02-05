@@ -1,0 +1,19 @@
+Descripcion del directorio: Contiene todo el codigo del programa separado en directorios(packages), los scripts para
+compilar todos los drivers y tests, y finalmente también se encuentra el codigo de main.java.
+
+Presentacio: Package donde esta todo el codigo referente a las vistas y su controlador.
+
+Dominio: Package donde esta todo el codigo referente a la capa de dominio, es decir, las funcionalidades principales
+del programa y su controlador.
+
+Persistencia: Package donde esta todo el codigo referente al sistema de gestion de ficheros, en otras palabras, la capa
+de persistencia con su controlador.
+
+compileDominioTesting.sh: Script encargado de compilar los drivers de controlador de dominio, para compilar introducir
+linea de comandos: bash compileDominioTesting.sh
+
+compileGeneradorTesting.sh: Script encargado de compilar los drivers del nuevo generador, para compilar introducir
+linea de comandos: bash compileGeneradorTesting.sh
+
+compileProgram.sh: Script encargado de compilar el programa principal con todas sus funcionalidades, para compilar introducir
+linea de comandos: bash compileProgram.sh
