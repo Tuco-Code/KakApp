@@ -1,6 +1,6 @@
 # KakApp
 
->Kakuro or Kakkuro or Kakoro is a kind of logic puzzle that is often referred to as a mathematical transliteration of the crossword. 
+>A Kakuro is a kind of logic puzzle that is often referred to as a mathematical transliteration of the crossword.
 
 A Java application capable of reading, generating and solving Kakuro boards. 
 
